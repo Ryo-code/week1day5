@@ -6,7 +6,6 @@ module.exports = {
   }
 }
 
-
 //would also work as the following...
       // var trigger = {
       //   message: "This message is from gonna-export-module.js",
